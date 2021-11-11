@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="513d9c23-37d9-4d2e-91d1-be368ad9aefc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aheR3wByD8XmpTVOBInFXw5U5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.GibberisherMain">
+    <configuration name="CharBagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharBagTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GibberisherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GibberisherMain" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterSampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterSampleTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrieNodeTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrieTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GibberisherMain" />
+        <item itemvalue="Application.CharBagTest" />
+        <item itemvalue="Application.TrieTest" />
+        <item itemvalue="Application.TrieNodeTest" />
+        <item itemvalue="Application.LetterSampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="513d9c23-37d9-4d2e-91d1-be368ad9aefc" name="Default Changelist" comment="" />
+      <created>1587192241748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587192241748</updated>
+      <workItem from="1587192247461" duration="53548000" />
+      <workItem from="1587759114538" duration="1013000" />
+      <workItem from="1587762504810" duration="1286000" />
+      <workItem from="1587764383133" duration="424000" />
+      <workItem from="1587785458440" duration="863000" />
+      <workItem from="1587787407481" duration="295000" />
+      <workItem from="1587969657949" duration="1665000" />
+      <workItem from="1587972789417" duration="1780000" />
+      <workItem from="1587974603438" duration="692000" />
+      <workItem from="1588105404113" duration="196000" />
+      <workItem from="1588107793294" duration="1000000" />
+      <workItem from="1588110210741" duration="1740000" />
+      <workItem from="1588112023601" duration="1687000" />
+      <workItem from="1588113836211" duration="563000" />
+      <workItem from="1588178697654" duration="1744000" />
+      <workItem from="1588180505947" duration="1619000" />
+      <workItem from="1588182321824" duration="1771000" />
+      <workItem from="1588184134044" duration="1221000" />
+      <workItem from="1588377576512" duration="22000" />
+      <workItem from="1588485556637" duration="1156000" />
+      <workItem from="1588487500827" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1587259062684">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="456" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.817@0.23.1440.817" timestamp="1587259062684" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom" timestamp="1588488732646">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1588488732646" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1588184377863" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center" timestamp="1588488732646">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1588488732646" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1588184377861" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left" timestamp="1588488732645">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1588488732645" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1588184377859" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right" timestamp="1588488732646">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1588488732646" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1588184377862" />
+    <state x="112" y="54" key="new project wizard" timestamp="1588105424999">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="112" y="54" key="new project wizard/0.23.1440.817@0.23.1440.817" timestamp="1588105424999" />
+  </component>
+</project>

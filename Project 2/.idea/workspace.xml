@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7bdc5f2-6b7e-4edf-b92b-281b4b3e8914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnWrNzNMJxr7gnadvjf9klhjWE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ExtendedEqualityTests">
+    <configuration name="EvenOddCipherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddCipherTest" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendedEqualityTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendedEqualityTests" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalDecoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalDecoding" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperCipherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuperCipherTest" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReplacementCipherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordReplacementCipherTest" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExtendedEqualityTests" />
+        <item itemvalue="Application.EvenOddCipherTest" />
+        <item itemvalue="Application.FinalDecoding" />
+        <item itemvalue="Application.WordReplacementCipherTest" />
+        <item itemvalue="Application.SuperCipherTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7bdc5f2-6b7e-4edf-b92b-281b4b3e8914" name="Default Changelist" comment="" />
+      <created>1585475536277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585475536277</updated>
+      <workItem from="1585475537709" duration="48107000" />
+      <workItem from="1586384170904" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="95" key="#CaesarCipherTest" timestamp="1585683994774">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="422" y="95" key="#CaesarCipherTest/0.23.1440.817@0.23.1440.817" timestamp="1585683994774" />
+    <state x="424" y="88" key="#PoJo" timestamp="1585780533717">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="424" y="88" key="#PoJo/0.23.1440.817@0.23.1440.817" timestamp="1585780533717" />
+    <state x="313" y="102" key="#Project_Structure" timestamp="1585475544102">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="313" y="102" key="#Project_Structure/0.23.1440.817@0.23.1440.817" timestamp="1585475544102" />
+    <state x="459" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1585525007934">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="459" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.817@0.23.1440.817" timestamp="1585525007934" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom" timestamp="1586382290472">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1586130689856" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586382290472" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center" timestamp="1586382290469">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1586130689848" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1586382290469" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left" timestamp="1586382290468">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1586130689847" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1586382290468" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right" timestamp="1586382290470">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1586130689851" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1586382290470" />
+    <state x="132" y="53" key="new project wizard" timestamp="1586294043778">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="132" y="53" key="new project wizard/0.23.1440.817@0.23.1440.817" timestamp="1585779555935" />
+    <state x="132" y="53" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1586294043778" />
+    <state x="502" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1585727683952">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="502" y="58" key="refactoring.ChangeSignatureDialog/0.23.1440.817@0.23.1440.817" timestamp="1585727683952" />
+  </component>
+</project>
